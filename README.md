@@ -3,7 +3,7 @@
 ## Hangman
 <img src="https://github.com/KelvQ/VarietyGames/blob/main/images/HangMan.png" width="50%" height="50%">
 
-- Chooses a random world from a list
+- Chooses a random word from a list
 - Click/press a letter to make a guess
 - Score begins at 100 points
   - Minus 10 points for every incorrect letter guessed
